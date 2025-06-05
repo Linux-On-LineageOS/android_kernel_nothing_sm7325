@@ -232,4 +232,7 @@ source "drivers/counter/Kconfig"
 
 source "drivers/nothing_stability/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
